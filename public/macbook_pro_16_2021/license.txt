@@ -1,0 +1,11 @@
+Model Information:
+* title:	MacBook Pro 16" 2021
+* source:	https://sketchfab.com/3d-models/macbook-pro-16-2021-8ac16bda501c4bcc8ba93ac3eb63a8e1
+* author:	rtql8d (https://sketchfab.com/rtql8d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MacBook Pro 16" 2021" (https://sketchfab.com/3d-models/macbook-pro-16-2021-8ac16bda501c4bcc8ba93ac3eb63a8e1) by rtql8d (https://sketchfab.com/rtql8d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
