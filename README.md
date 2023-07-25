@@ -11,4 +11,4 @@ This app is created using vite , threeJS and tailwind
   autoplay
   loop
   muted
-></video>
+/></video>
